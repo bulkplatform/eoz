@@ -138,6 +138,7 @@ public:
             /* nTime    */ 1569926786,
             /* nTxCount */ 460596047,
             /* dTxRate  */ 3.77848885073875,
+			m_fallback_fee_enabled = true;
         };
     }
 };

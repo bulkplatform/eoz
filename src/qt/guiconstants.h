@@ -1,4 +1,4 @@
-// Copyright (c) 2011-2018 The Eozi Core developers
+// Copyright (c) 2019-2020 The Eozi Core developers
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -43,7 +43,7 @@ static const int TOOLTIP_WRAP_THRESHOLD = 80;
 #define SPINNER_FRAMES 36
 
 #define QAPP_ORG_NAME "Eozi"
-#define QAPP_ORG_DOMAIN "eozi.org"
+#define QAPP_ORG_DOMAIN "eozicore.org"
 #define QAPP_APP_NAME_DEFAULT "Eozi-Qt"
 #define QAPP_APP_NAME_TESTNET "Eozi-Qt-testnet"
 #define QAPP_APP_NAME_REGTEST "Eozi-Qt-regtest"
